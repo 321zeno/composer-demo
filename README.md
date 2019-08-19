@@ -1,5 +1,10 @@
 # Composer Demo
 
+## Running Locally
+
+ - Clone this repo
+ - Install dependencies and generate autoloader `composer install`
+
 ## Useful Commands:
 
 Initialize a new composer config file
